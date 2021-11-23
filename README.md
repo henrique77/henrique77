@@ -10,17 +10,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique77&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div>
-  <img align="center" alt="Python" height="20" width="55" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="HTML" height="20" width="55" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="20" width="55" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Django" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" alt="MySQL" height="25" width="55" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="SQlite" height="20" width="55" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt="Postgresql" height="20" width="55" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="GIT" height="30" width="55" src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white">
-</div>
-  <img align="center" alt="GITHUB" height="30" width="65" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Caires-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Caires-HTML5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Caires-CSS3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Caires-Django" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  <img align="center" alt="Caires-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Caires-SQlite" height="30" width="65" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Caires-Postgresql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Caires-GIT" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Caires-GITHUB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
   
  <h3>You can find me around here:</h3>
