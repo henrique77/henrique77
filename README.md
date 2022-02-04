@@ -22,7 +22,7 @@
   <img align="center" alt="Caires-GITHUB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
   
- <h3>You can find me around here:</h3>
+ <h3>You can find me around here: </h3>
 
 <left>
     <a href="https://www.linkedin.com/in/henrique-caires/">
