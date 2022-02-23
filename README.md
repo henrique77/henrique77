@@ -1,6 +1,7 @@
 <h1>Hi, I'm Henrique Caires </h1>
 
 <p>I'm a Computer Engineer and software developer. 👨‍💻 ⚙️</p>
+<p>Now learning Big Data and Machine Learning. 👨‍💻 ⚙️</p>
 
 <hr>
 <h3>Some statistics from my profile</h3>
