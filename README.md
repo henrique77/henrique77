@@ -14,10 +14,12 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Caires-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Caires-GO" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
+  <img align="center" alt="Caires-Typescript" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Caires-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Caires-Postgresql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Caires-GIT" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Caires-GITHUB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Caires-Docker" height="70" width="90" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg">
 </div>
 </div>
   
