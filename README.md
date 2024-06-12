@@ -1,7 +1,6 @@
 <h1>Hi, I'm Henrique Caires </h1>
 
 <p>I'm a Computer Engineer and software developer. 👨‍💻 ⚙️</p>
-<p>Now, learning Big Data and Machine Learning. 👨‍💻 ⚙️</p>
 
 <hr>
 <h3>Some statistics from my profile</h3>
@@ -12,8 +11,8 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Caires-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Caires-GO" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
+  <img align="center" alt="Caires-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Caires-Typescript" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Caires-Typescript" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Caires-Typescript" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg">
