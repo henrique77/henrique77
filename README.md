@@ -2,14 +2,16 @@
 
 <p>I'm a Computer Engineer and software developer. 👨‍💻 ⚙️</p>
 
-<hr>
+<!-- <hr>
 <h3>Some statistics from my profile</h3>
 <div>
   <a href="https://github.com/henrique77">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique77&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+</div> -->
+
+<hr>
+<h3>Some of the stacks I use</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Caires-GO" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
   <img align="center" alt="Caires-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
